@@ -11,13 +11,13 @@ This is a web application for managing patients and appointments, built with mod
 
 ## Technologies Used
 
-- **ReactJs**: A JavaScript library for building user interfaces.
-- **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
-- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
-- **React-Hook-Form**: A library for managing form state and validation in React.
-- **Toastify**: A library for displaying toast notifications in React.
-- **TailwindCss**: A utility-first CSS framework for rapid UI development.
-- **Zustand**: A small, fast, and scalable state-management solution for React.
+- !React **ReactJs**: A JavaScript library for building user interfaces.
+- !Vite **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
+- !TypeScript **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- !React-Hook-Form **React-Hook-Form**: A library for managing form state and validation in React.
+- !Toastify **Toastify**: A library for displaying toast notifications in React.
+- !Tailwind CSS **TailwindCss**: A utility-first CSS framework for rapid UI development.
+- !Zustand **Zustand**: A small, fast, and scalable state-management solution for React.
 
 ## Installation
 
