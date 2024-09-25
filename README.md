@@ -11,13 +11,14 @@ Welcome to the Patient Management System! This web application is designed to he
 
 ## Technologies Used
 
-- !React **ReactJs**: A JavaScript library for building user interfaces.
-- !Vite **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
-- !TypeScript **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
-- !React-Hook-Form **React-Hook-Form**: A library for managing form state and validation in React.
-- !Toastify **Toastify**: A library for displaying toast notifications in React.
-- !Tailwind CSS **TailwindCss**: A utility-first CSS framework for rapid UI development.
-- !Zustand **Zustand**: A small, fast, and scalable state-management solution for React.
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) **ReactJs**: A JavaScript library for building user interfaces.
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- ![React-Hook-Form](https://img.shields.io/badge/-React--Hook--Form-EC5990?logo=reacthookform&logoColor=white&style=flat) **React-Hook-Form**: A library for managing form state and validation in React.
+- ![Toastify](https://img.shields.io/badge/-Toastify-FF7139?logo=toastify&logoColor=white&style=flat) **Toastify**: A library for displaying toast notifications in React.
+- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat) **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- ![Zustand](https://img.shields.io/badge/-Zustand-E5E5E5?logo=zustand&logoColor=black&style=flat) **Zustand**: A small, fast, and scalable state-management solution for React.
+
 
 ## Installation
 
