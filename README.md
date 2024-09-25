@@ -1,50 +1,61 @@
-# React + TypeScript + Vite
+# Patient Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web application for managing patients and appointments, built with modern web technologies.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add, update, and delete patient records
+- Manage appointments
+- Real-time notifications using Toastify
+- Responsive design with Tailwind CSS
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **ReactJs**: A JavaScript library for building user interfaces.
+- **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **React-Hook-Form**: A library for managing form state and validation in React.
+- **Toastify**: A library for displaying toast notifications in React.
+- **TailwindCss**: A utility-first CSS framework for rapid UI development.
+- **Zustand**: A small, fast, and scalable state-management solution for React.
 
-- Configure the top-level `parserOptions` property like this:
+## Installation
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/patients-management-system.git
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+2. Navigate to the project directory:
+   ```bash
+   cd patients-management-system
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+3. Install the dependencies:
+   ```bash
+   npm install
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+4. Start the development server:
+   ```bash
+   npm run dev
+
+## Usage
+
+1. Open your browser and navigate to `http://localhost:3000`.
+2. Use the application to manage patients and appointments.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- ReactJs
+- Vite
+- TypeScript
+- React-Hook-Form
+- Toastify
+- TailwindCss
+- Zustand
