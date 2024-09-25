@@ -11,7 +11,7 @@ This is a web application for managing patients and appointments, built with mod
 
 ## Technologies Used
 
-- !React **ReactJs**: A JavaScript library for building user interfaces.
+- https://camo.githubusercontent.com/12f9a0c4e81c193792bf507b6797902ab8be9e734888b51e85b787778256b1f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465!React **ReactJs**: A JavaScript library for building user interfaces.
 - !Vite **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
 - !TypeScript **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
 - !React-Hook-Form **React-Hook-Form**: A library for managing form state and validation in React.
